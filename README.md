@@ -36,7 +36,7 @@ I am currently working on an exciting project to create a portfolio website usin
 
  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SanketKumarKar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SanketKumarKar&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## Contact
